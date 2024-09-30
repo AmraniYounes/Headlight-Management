@@ -8,6 +8,8 @@ This project implements a **Headlight Management** software architecture in Simu
 - Definition of **ports** and **interfaces** for SWC communication.
 - Integration of **Basic Software (BSW)** service calls to support system functionality.
 - Simulation of the complete system architecture within Simulink.
+- Test Harness for simulation.
+- Code generation.
 
 ## Requirements
 To run this project, you will need the following:
@@ -17,7 +19,3 @@ To run this project, you will need the following:
 - **Embedded Coder**
 - **Simulink Coder**
 
-## How to Use
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/headlight-management-simulink.git
