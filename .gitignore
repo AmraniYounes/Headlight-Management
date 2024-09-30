@@ -1,2 +1,5 @@
 # Ignore Simulink cache files
 *.slxc
+
+# Ignore the slprj folder (Simulink project-generated files)
+slprj/
