@@ -13,7 +13,7 @@ This project implements a **Headlight Management** software architecture in Simu
 
 ## Requirements
 To run this project, you will need the following:
-- **MATLAB Version**: 2024a
+- **MATLAB Version**: 2022a +
 - **Simulink**
 - **AUTOSAR Blockset**
 - **Embedded Coder**
