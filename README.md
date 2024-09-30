@@ -9,10 +9,13 @@ This project implements a **Headlight Management** software architecture in Simu
 - Integration of **Basic Software (BSW)** service calls to support system functionality.
 - Simulation of the complete system architecture within Simulink.
 
-## Tools and Technologies
-- **Simulink**: For model-based design and simulation.
-- **AUTOSAR Blockset**: For creating AUTOSAR-compliant software architecture.
-- **MATLAB/Simulink** Version: [Specify your version here].
+## Requirements
+To run this project, you will need the following:
+- **MATLAB Version**: 2024a
+- **Simulink**
+- **AUTOSAR Blockset**
+- **Embedded Coder**
+- **Simulink Coder**
 
 ## How to Use
 1. Clone the repository to your local machine:
