@@ -1,0 +1,2 @@
+# Ignore Simulink cache files
+*.slxc
